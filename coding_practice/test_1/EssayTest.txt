@@ -1,0 +1,18 @@
+1. menghitung jumlah total dari 3 nilai teratas,
+    input : [1,2,3,4,5,6]
+    output : 15
+
+
+2. Input: array of int [2,4,6,5,3,1,7,9,10,8]
+    Hasil:  2,4,6,8,10
+            2,4,6,8
+            2,4,6
+            2,4
+            2
+
+3. Bilangan Prima,
+    input n = 6.
+    Output :
+    2, 3, 5, 7, 11, 13
+
+
